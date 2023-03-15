@@ -1,2 +1,2 @@
 # md-img
-storing pictures 
+save img
